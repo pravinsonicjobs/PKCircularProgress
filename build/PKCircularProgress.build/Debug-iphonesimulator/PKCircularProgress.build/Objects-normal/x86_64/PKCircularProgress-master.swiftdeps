@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "96fe0615ff7354ae4c99f6e79a039ed4"
+build_time: [1536313656, 55757000]
+inputs:
+  "/Users/pravinkulkarni/Desktop/PravinProjects/PKCircularProgress/PKCircularProgress/PKCircularProgress.swift": [1536312334, 0]

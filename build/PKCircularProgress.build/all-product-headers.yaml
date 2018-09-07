@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/pravinkulkarni/Library/Developer/Xcode/DerivedData/PKCircularProgress-hbpkqwibvywztnabejuuouaolwaj/Build/Products/Debug-iphonesimulator/PKCircularProgress.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PKCircularProgress-Swift.h",
+          'external-contents': "/Users/pravinkulkarni/Library/Developer/Xcode/DerivedData/PKCircularProgress-hbpkqwibvywztnabejuuouaolwaj/Build/Products/Debug-iphonesimulator/PKCircularProgress.framework/Headers/PKCircularProgress-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PKCircularProgress.h",
+          'external-contents': "/Users/pravinkulkarni/Desktop/PravinProjects/PKCircularProgress/PKCircularProgress/PKCircularProgress.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/pravinkulkarni/Library/Developer/Xcode/DerivedData/PKCircularProgress-hbpkqwibvywztnabejuuouaolwaj/Build/Products/Debug-iphonesimulator/PKCircularProgress.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/pravinkulkarni/Desktop/PravinProjects/PKCircularProgress/build/PKCircularProgress.build/Debug-iphonesimulator/PKCircularProgress.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

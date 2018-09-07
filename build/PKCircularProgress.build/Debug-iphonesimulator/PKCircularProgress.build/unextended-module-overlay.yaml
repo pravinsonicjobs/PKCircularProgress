@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/pravinkulkarni/Library/Developer/Xcode/DerivedData/PKCircularProgress-hbpkqwibvywztnabejuuouaolwaj/Build/Products/Debug-iphonesimulator/PKCircularProgress.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/pravinkulkarni/Desktop/PravinProjects/PKCircularProgress/build/PKCircularProgress.build/Debug-iphonesimulator/PKCircularProgress.build/unextended-module.modulemap',
+    }]
+  }]
+}

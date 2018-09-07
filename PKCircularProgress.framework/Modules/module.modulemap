@@ -1,0 +1,11 @@
+framework module PKCircularProgress {
+  umbrella header "PKCircularProgress.h"
+
+  export *
+  module * { export * }
+}
+
+module PKCircularProgress.Swift {
+    header "PKCircularProgress-Swift.h"
+    requires objc
+}
