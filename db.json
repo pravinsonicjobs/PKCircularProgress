@@ -4,15 +4,15 @@
 	"components":
 		[{
 			"type": "TEXT",
-			"text" = "Hey Gainluca, it's Julie from Sonic Jobs here!"
+			"text": "Hey Gainluca, it's Julie from Sonic Jobs here!"
 		},
 		{
 			"type": "TEXT",
-			"text" = "In order to give you the best chance of getting hired, you have to answer a couple of questions."
+			"text": "In order to give you the best chance of getting hired, you have to answer a couple of questions."
 		},
 		{
 			"type": "TEXT",
-			"text" = "hand unicode"
+			"text": "hand unicode"
 		}]
 },
 {
@@ -21,7 +21,7 @@
 	"components":
 		[{
 			"type": "LABEL",
-			"text" = "Your full name"
+			"text": "Your full name"
 		},
 		{
 			"type": "DROPDOWN",
@@ -45,7 +45,7 @@
 		},
 		{
 			"type": "LABEL",
-			"text" = "I'm looking for"
+			"text": "I'm looking for"
 		},
 		{
 			"type": "DROPDOWN",
