@@ -1,0 +1,54 @@
+[{
+	"type":"INTRODUCTION_CHAT", 
+	"id":"G1",
+	"components"
+		[{
+			"type": "TEXT",
+			"text" = "Hey Gainluca, it's Julie from Sonic Jobs here!"
+		},
+		{
+			"type": "TEXT",
+			"text" = "In order to give you the best chance of getting hired, you have to answer a couple of questions."
+		},
+		{
+			"type": "TEXT",
+			"text" = "hand unicode"
+		}]
+},
+{
+	"type":"PERSONAL_INFORMATION", 
+	"id":"G2",
+	"components"
+		[{
+			"type": "LABEL",
+			"text" = "Your full name"
+		},
+		{
+			"type": "DROPDOWN",
+			"options":[{"Mr","Mrs","Miss","Ms"}]
+		},
+		{
+			"type": "TEXT_FIELD",
+			"placeHolder": "Name"
+		},
+		{
+			"type": "TEXT_FIELD",
+			"placeHolder": "Surname"
+		},
+		{
+			"type": "LABEL",
+			"text" = "Date of birth"
+		},
+		{
+			"type": "DATE",
+			"text": "Your date of birth"
+		},
+		{
+			"type": "LABEL",
+			"text" = "I'm looking for"
+		},
+		{
+			"type": "DROPDOWN",
+			"options":[{"Full time jobs","Part time jobs","Full time and part time jobs"}]
+		}]
+}]
