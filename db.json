@@ -1,4 +1,4 @@
-{
+[{
 	"type":"INTRODUCTION_CHAT", 
 	"id":"G1",
 	"components":
@@ -51,4 +51,4 @@
 			"type": "DROPDOWN",
 			"options":["Full time jobs","Part time jobs","Full time and part time jobs"]
 		}]
-}
+}]
