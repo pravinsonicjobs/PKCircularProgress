@@ -1,17 +1,4 @@
 {
-	"type":"INTRODUCTION_CHAT", 
-	"id":"G1",
-	"components":
-		[{
-			"type": "TEXT",
-			"text": "Hey Gainluca, it's Julie from Sonic Jobs here!"
-		},
-		{
-			"type": "TEXT",
-			"text": "In order to give you the best chance of getting hired, you have to answer a couple of questions."
-		},
-		{
-			"type": "TEXT",
-			"text": "hand unicode"
-		}]
+  "id": 1,
+  "title": "hello"
 }
