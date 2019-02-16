@@ -25,7 +25,7 @@
 		},
 		{
 			"type": "DROPDOWN",
-			"options":[{"Mr","Mrs","Miss","Ms"}]
+			"options":["Mr","Mrs","Miss","Ms"]
 		},
 		{
 			"type": "TEXT_FIELD",
@@ -37,7 +37,7 @@
 		},
 		{
 			"type": "LABEL",
-			"text" = "Date of birth"
+			"text": "Date of birth"
 		},
 		{
 			"type": "DATE",
