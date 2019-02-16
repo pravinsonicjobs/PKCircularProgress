@@ -1,7 +1,7 @@
-[{
+{
 	"type":"INTRODUCTION_CHAT", 
 	"id":"G1",
-	"components"
+	"components":
 		[{
 			"type": "TEXT",
 			"text" = "Hey Gainluca, it's Julie from Sonic Jobs here!"
@@ -18,7 +18,7 @@
 {
 	"type":"PERSONAL_INFORMATION", 
 	"id":"G2",
-	"components"
+	"components":
 		[{
 			"type": "LABEL",
 			"text" = "Your full name"
@@ -51,4 +51,4 @@
 			"type": "DROPDOWN",
 			"options":[{"Full time jobs","Part time jobs","Full time and part time jobs"}]
 		}]
-}]
+}
