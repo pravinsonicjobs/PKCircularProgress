@@ -49,6 +49,6 @@
 		},
 		{
 			"type": "DROPDOWN",
-			"options":[{"Full time jobs","Part time jobs","Full time and part time jobs"}]
+			"options":["Full time jobs","Part time jobs","Full time and part time jobs"]
 		}]
 }
